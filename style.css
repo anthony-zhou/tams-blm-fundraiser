@@ -1,0 +1,64 @@
+body {
+    background-color: #E8E4D9;
+}
+
+a, p, span, div {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    /* color: #7b5074; */
+}
+h1, h2, h3 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 10vh;
+}
+
+.container h1 {
+    font-size: 4em;
+}
+
+.container p {
+    font-size: 1.5em;
+}
+
+p.big-quote {
+    /* font-size: 4em; */
+    font-style: italic;
+}
+
+video {
+    width: 100%    !important;
+    height: auto   !important;
+  }
+
+.middle-section {
+    margin-top: 20px;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.middle-section p {
+    font-weight: bold;
+}
+
+a {
+    color: inherit;
+    text-decoration: underline;
+}
+a:hover {
+    color: inherit;
+}
+
+  .btn {
+    font-size: 2em;
+  }
+  a.primary {
+      color: #7b5074;
+  }
+  a.primary:hover {
+      color: #5b3054;
+  }
