@@ -1,3 +1,3 @@
 ﻿# tams-blm-fundraiser
 
-A website for the 2020 TAMS Black Student Union Fundraiser for Black Lives Matter. 
+A website made for the TAMS Black Student Union's July 2020 Fundraiser for Black Lives Matter. 
